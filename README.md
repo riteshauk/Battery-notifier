@@ -27,5 +27,8 @@ A lightweight Python script that notifies you when your laptop's battery is eith
 ## Run the script:
 python battery_notifier.py
 
+## 📃 License
+This project is licensed under the [MIT License](LICENSE).
+
 
 
