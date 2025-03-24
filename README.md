@@ -1,6 +1,6 @@
 # 🔋 Battery Notifier
 
-A lightweight Python script that notifies you when your laptop's battery is either too low or fully charged. This helps you avoid overcharging and alerts you before your device shuts down due to low battery.
+A lightweight Python script that notifies you when your laptop's battery is either too low or fully charged. This helps you avoid overcharging and alerts you before your device shuts down due to low battery. This should increase the lifetime of your laptop battery in the long run.
 
 ## 📦 Features
 
@@ -22,9 +22,10 @@ A lightweight Python script that notifies you when your laptop's battery is eith
 1. Clone this repository or download the file `battery_notifier.py`
 
 2. Install required Python libraries:
+   pip install psutil plyer
 
-pip install psutil plyer
-### Run the program
+## Run the script:
 python battery_notifier.py
+
 
 
